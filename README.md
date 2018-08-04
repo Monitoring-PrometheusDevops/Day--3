@@ -10,6 +10,6 @@ Prueba Final
 
 4) Crear un DockerFile para poderlo comunicar con Jenkins
 
-5) Hacer el replay con Kubernetes
+5) Hacer el replay con Kubernetes MineKube
 
 6) instalar - configurar Promethus para poder ver la salida final del servicio
