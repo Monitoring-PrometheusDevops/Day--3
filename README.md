@@ -6,7 +6,7 @@ Prueba Final
 
 2) Crear WebHook para comunicarse entre el Servidor - GitHub
 
-3) Crear pipeline en jenkins con sus respectivos stages
+3) Crear pipeline en jenkins con sus respectivos stages (checkout, build, test)
 
 4) Crear un DockerFile para poderlo comunicar con Jenkins
 
