@@ -12,4 +12,4 @@ Prueba Final
 
 5) Hacer el replay con Kubernetes MineKube
 
-6) instalar - configurar Promethus para poder ver la salida final del servicio
+6) instalar - configurar Promethus para poder ver la salida final del servicio, dicha salida debe mostrarse en grafana
